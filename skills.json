@@ -3,40 +3,12 @@
   "icon": "https://img.icons8.com/color/48/kotlin.png"
 },
 {
-  "name": "Jetpack Compose",
-  "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
-},
-{
   "name": "Android Studio",
   "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
 },
 {
   "name": "XML",
   "icon": "https://img.icons8.com/color/48/xml-file.png"
-},
-{
-  "name": "Gradle",
-  "icon": "https://img.icons8.com/color/48/gradle.png"
-},
-{
-  "name": "Kotlin",
-  "icon": "https://img.icons8.com/color/48/kotlin.png"
-},
-{
-  "name": "Jetpack Compose",
-  "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
-},
-{
-  "name": "Android Studio",
-  "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
-},
-{
-  "name": "XML",
-  "icon": "https://img.icons8.com/color/48/xml-file.png"
-},
-{
-  "name": "Gradle",
-  "icon": "https://img.icons8.com/color/48/gradle.png"
 },
 {
   "name": "Retrofit",
@@ -63,10 +35,6 @@
   "icon": "https://img.icons8.com/fluency/48/time-machine.png"
 },
 {
-  "name": "Flow",
-  "icon": "https://img.icons8.com/fluency/48/data-stream.png"
-},
-{
   "name": "LiveData",
   "icon": "https://img.icons8.com/fluency/48/line-chart.png"
 },
@@ -85,10 +53,6 @@
 {
   "name": "Espresso",
   "icon": "https://img.icons8.com/fluency/48/touchscreen-smartphone.png"
-},
-{
-  "name": "Hilt",
-  "icon": "https://img.icons8.com/fluency/48/dependency.png"
 },
 {
   "name": "Dagger",
@@ -129,18 +93,6 @@
 {
   "name": "MySQL",
   "icon": "https://img.icons8.com/color/48/mysql-logo.png"
-},
-{
-  "name": "Python (Basics)",
-  "icon": "https://img.icons8.com/color/48/python--v1.png"
-},
-{
-  "name": "C++ (Fundamentals)",
-  "icon": "https://img.icons8.com/color/48/c-plus-plus-logo.png"
-},
-{
-  "name": "Heroku",
-  "icon": "https://img.icons8.com/color/48/heroku.png"
 },
 {
   "name": "Deep Learning (Basics)",

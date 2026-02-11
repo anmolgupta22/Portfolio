@@ -1,11 +1,22 @@
 [{
         "name": "Airtel Fiverse App",
         "desc": "Developed Airtel Fiverse app to digitize fiber planning, replacing paperwork with real-time data capture, GPS tracking, and automation.",
-        "image": "Airtel",
+        "image": "https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",
         "category": "APP",
         "links": {
             "view": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN",
             "code": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN"
+        }
+    },
+    
+    {
+        "name": "MYn Super App",
+        "desc": "MYn is a super app that provides multiple features for a daily life and preserves the privacy of every individual's data.",
+        "image": "MYn",
+        "category": "APP",
+        "links": {
+            "view": "",
+            "code": ""
         }
     },
     
@@ -31,16 +42,6 @@
         }
     },
 
-    {
-        "name": "MYn Super App",
-        "desc": "MYn is a super app that provides multiple features for a daily life and preserves the privacy of every individual's data.",
-        "image": "MYn",
-        "category": "APP",
-        "links": {
-            "view": "",
-            "code": ""
-        }
-    },
     
     {
         "name": "Find Electronic Devices Bills Java",

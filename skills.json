@@ -3,7 +3,7 @@
   "icon": "https://img.icons8.com/color/48/kotlin.png"
 },
 {
-  "name": "Android Studio",
+  "name": "Android",
   "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
 },
 {
@@ -59,7 +59,7 @@
   "icon": "https://img.icons8.com/color/48/firebase.png"
 },
 {
-  "name": "ProGuard / R8",
+  "name": "ProGuard/R8",
   "icon": "https://img.icons8.com/fluency/48/security-checked.png"
 },
 {
@@ -91,7 +91,7 @@
   "icon": "https://img.icons8.com/color/48/mysql-logo.png"
 },
 {
-  "name": "Deep Learning (Basics)",
+  "name": "DL",
   "icon": "https://img.icons8.com/external-becris-lineal-color-becris/64/external-deep-learning-data-science-becris-lineal-color-becris.png"
 }
 ]

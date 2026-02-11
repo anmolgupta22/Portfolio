@@ -1,90 +1,149 @@
 [{
-        "name": "Java",
-        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
-    },
-
-    {
-        "name": "WordPress",
-        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    },
-
-    {
-        "name": "HTML5",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
-    },
-    {
-        "name": "CSS3",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png"
-    },
-
-
-    {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
-    },
-
-
-    {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
-    },
-
-    {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
-    },
-    {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
-    },
-    {
-        "name": "C++",
-        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
-    },
-
-    {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
-    },
-
-
-
-    {
-        "name": "PHP",
-        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
-    },
-
-    {
-        "name": "Heroku",
-        "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
-    },
-    {
-        "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
-    },
-    {
-        "name": "GitHub",
-        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
-    },
-    {
-        "name": "SEO",
-        "icon": "https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-seo-online-marketing-wanicon-lineal-color-wanicon.png"
-    },
-    {
-        "name": "DL",
-        "icon": "https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-deep-learning-data-science-becris-lineal-color-becris.png"
-    },
-
-    {
-        "name": "Youtuber",
-        "icon": "https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/64/000000/external-youtuber-online-business-photo3ideastudio-lineal-color-photo3ideastudio.png"
-    }
-
-
-
+  "name": "Kotlin",
+  "icon": "https://img.icons8.com/color/48/kotlin.png"
+},
+{
+  "name": "Jetpack Compose",
+  "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
+},
+{
+  "name": "Android Studio",
+  "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
+},
+{
+  "name": "XML",
+  "icon": "https://img.icons8.com/color/48/xml-file.png"
+},
+{
+  "name": "Gradle",
+  "icon": "https://img.icons8.com/color/48/gradle.png"
+},
+{
+  "name": "Kotlin",
+  "icon": "https://img.icons8.com/color/48/kotlin.png"
+},
+{
+  "name": "Jetpack Compose",
+  "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
+},
+{
+  "name": "Android Studio",
+  "icon": "https://img.icons8.com/color/48/android-studio--v2.png"
+},
+{
+  "name": "XML",
+  "icon": "https://img.icons8.com/color/48/xml-file.png"
+},
+{
+  "name": "Gradle",
+  "icon": "https://img.icons8.com/color/48/gradle.png"
+},
+{
+  "name": "Retrofit",
+  "icon": "https://img.icons8.com/fluency/48/api.png"
+},
+{
+  "name": "OkHttp",
+  "icon": "https://img.icons8.com/fluency/48/cloud-sync.png"
+},
+{
+  "name": "Room",
+  "icon": "https://img.icons8.com/fluency/48/database.png"
+},
+{
+  "name": "SQLite",
+  "icon": "https://img.icons8.com/color/48/sql.png"
+},
+{
+  "name": "REST API",
+  "icon": "https://img.icons8.com/fluency/48/web.png"
+},
+{
+  "name": "Coroutines",
+  "icon": "https://img.icons8.com/fluency/48/time-machine.png"
+},
+{
+  "name": "Flow",
+  "icon": "https://img.icons8.com/fluency/48/data-stream.png"
+},
+{
+  "name": "LiveData",
+  "icon": "https://img.icons8.com/fluency/48/line-chart.png"
+},
+{
+  "name": "WorkManager",
+  "icon": "https://img.icons8.com/fluency/48/task.png"
+},
+{
+  "name": "JUnit",
+  "icon": "https://img.icons8.com/fluency/48/test-tube.png"
+},
+{
+  "name": "Mockito",
+  "icon": "https://img.icons8.com/fluency/48/robot.png"
+},
+{
+  "name": "Espresso",
+  "icon": "https://img.icons8.com/fluency/48/touchscreen-smartphone.png"
+},
+{
+  "name": "Hilt",
+  "icon": "https://img.icons8.com/fluency/48/dependency.png"
+},
+{
+  "name": "Dagger",
+  "icon": "https://img.icons8.com/fluency/48/plug.png"
+},
+{
+  "name": "Firebase",
+  "icon": "https://img.icons8.com/color/48/firebase.png"
+},
+{
+  "name": "ProGuard / R8",
+  "icon": "https://img.icons8.com/fluency/48/security-checked.png"
+},
+{
+  "name": "HTML5",
+  "icon": "https://img.icons8.com/color/48/html-5--v1.png"
+},
+{
+  "name": "CSS3",
+  "icon": "https://img.icons8.com/color/48/css3.png"
+},
+{
+  "name": "JavaScript",
+  "icon": "https://img.icons8.com/color/48/javascript--v1.png"
+},
+{
+  "name": "Bootstrap",
+  "icon": "https://img.icons8.com/color/48/bootstrap.png"
+},
+{
+  "name": "WordPress",
+  "icon": "https://img.icons8.com/color/48/wordpress.png"
+},
+{
+  "name": "jQuery",
+  "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+},
+{
+  "name": "MySQL",
+  "icon": "https://img.icons8.com/color/48/mysql-logo.png"
+},
+{
+  "name": "Python (Basics)",
+  "icon": "https://img.icons8.com/color/48/python--v1.png"
+},
+{
+  "name": "C++ (Fundamentals)",
+  "icon": "https://img.icons8.com/color/48/c-plus-plus-logo.png"
+},
+{
+  "name": "Heroku",
+  "icon": "https://img.icons8.com/color/48/heroku.png"
+},
+{
+  "name": "Deep Learning (Basics)",
+  "icon": "https://img.icons8.com/external-becris-lineal-color-becris/64/external-deep-learning-data-science-becris-lineal-color-becris.png"
+}
 ]

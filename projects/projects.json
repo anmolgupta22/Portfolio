@@ -1,23 +1,25 @@
 [{
-        "name": "Apne Ko Jano Website",
-        "desc": "Worked in APNE KO JANO religion site. They are provides books, article and fully optimized and page load very less time -57k views",
-        "image": "Apnekojano",
-        "category": "WEB",
+        "name": "Airtel Fiverse App",
+        "desc": "Developed Airtel Fiverse app to digitize fiber planning, replacing paperwork with real-time data capture, GPS tracking, and automation.",
+        "image": "Airtel",
+        "category": "APP",
         "links": {
-            "view": "https://www.apnekojano.com/",
-            "code": "https://github.com/MrAnmolGupta/APNE-KO-JANO"
+            "view": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN",
+            "code": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN"
         }
     },
+    
     {
-        "name": "Search Engine Optimization",
-        "desc": "1st rank (Sachhi Baatein) keyword in google search -23k views",
-        "image": "seo",
-        "category": "WEB",
+        "name": "GA Pilot App",
+        "desc": "GA Pilot 2.0 advanced app designed for drone pilots focused on agricultural tasks like pesticide spraying. With features that simplify boundary marking, path planning, and real-time monitoring, this app equips pilots with essential tools for precision and efficiency.",
+        "image": "Airtel",
+        "category": "APP",
         "links": {
-            "view": "https://www.apnekojano.com/sacchi-baatein-%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a5%80-%e0%a4%ac%e0%a4%be%e0%a4%a4%e0%a5%87%e0%a4%82-part-1/",
-            "code": "https://github.com/MrAnmolGupta/APNE-KO-JANO"
+            "view": "https://play.google.com/store/apps/details?id=com.ga.ga_krishak_1i&hl=en_IN",
+            "code": "https://play.google.com/store/apps/details?id=com.ga.ga_krishak_1i&hl=en_IN"
         }
     },
+
     {
         "name": "Find Electronic Devices Bills Java",
         "desc": "The Application Check the electronic Devices bills. User gives the data like how many Bills are Charged, electric’s unit, fans, Ac, refrigerator.",
@@ -28,83 +30,26 @@
             "code": "https://github.com/MrAnmolGupta/Electronic-Devices-Bills-Generator"
         }
     },
+
     {
-        "name": "NLP ToolKit Deep Learning",
-        "desc": "Summarize Text from News Articles, or upload an entire book as a text file. Or simply type out the text for summarization.",
-        "image": "NLP",
-        "category": "Deep",
+        "name": "MYn Super App",
+        "desc": "MYn is a super app that provides multiple features for a daily life and preserves the privacy of every individual's data.",
+        "image": "MYn",
+        "category": "APP",
         "links": {
             "view": "",
             "code": ""
         }
     },
+    
     {
-        "name": "Portfolio website",
-        "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-        "image": "PortfolioAnmol",
-        "category": "WEB",
+        "name": "Find Electronic Devices Bills Java",
+        "desc": "The Application Check the electronic Devices bills. User gives the data like how many Bills are Charged, electric’s unit, fans, Ac, refrigerator.",
+        "image": "bill",
+        "category": "Software",
         "links": {
-            "view": "https://github.com/MrAnmolGupta/Portfolio",
-            "code": "https://github.com/MrAnmolGupta/Portfolio"
-        }
-    },
-    {
-        "name": "Course Certificate",
-        "desc": "Programming Foundations with JavaScript, HTML and CSS.",
-        "image": "Duke",
-        "category": "Certificate",
-        "links": {
-            "view": "https://www.coursera.org/account/accomplishments/verify/EEMYCJGLUBPQ",
-            "code": "https://www.coursera.org/account/accomplishments/verify/EEMYCJGLUBPQ"
-        }
-    },
-    {
-        "name": "Achievement in SEO",
-        "desc": "Achievement in SEO in Apne Ko Jano website. 1st rank Sachhi Baatein Keyword -23 views",
-        "image": "Achieve",
-        "category": "Achieve",
-        "links": {
-            "view": "https://www.apnekojano.com/sacchi-baatein-%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a5%80-%e0%a4%ac%e0%a4%be%e0%a4%a4%e0%a5%87%e0%a4%82-part-1/",
-            "code": "https://www.apnekojano.com/sacchi-baatein-%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a5%80-%e0%a4%ac%e0%a4%be%e0%a4%a4%e0%a5%87%e0%a4%82-part-1/"
-        }
-    },
-
-    {
-        "name": "Achievement of Website views",
-        "desc": "Achieve 57k views and 17k user in Apne Ko Jano",
-        "image": "Achieve1",
-        "category": "Achieve",
-        "links": {
-            "view": "https://www.apnekojano.com/",
-            "code": "https://www.apnekojano.com/"
-        }
-    },
-    {
-        "name": "Achieve 54+k views in Youtube ",
-        "desc": "Make Educational Videos to Represented VIT University -54+k views",
-        "image": "achive2",
-        "category": "Achieve",
-        "links": {
-            "view": "https://www.youtube.com/channel/UCm9ZU-nq3bmky-_LwM6WJ6g/videos",
-            "code": "https://www.youtube.com/watch?v=EuIacTGLFK8"
-        }
-    },
-    {
-        "name": "Handing 1k+ user account ",
-        "desc": "Computer operator in Share Market company  (Ventura Securities Ltd), (Aug20 - Jan 21)- Handing buying & Selling, 1K+ user ",
-        "image": "Achieve4",
-        "category": "Achieve",
-        "links": {
-            "view": "https://www.linkedin.com/company/ventura-securities-ltd/",
-            "code": "https://www.linkedin.com/company/ventura-securities-ltd/"
+            "view": "https://drive.google.com/file/d/1ps-_cDrLEyPLnkGtZkFUx8ZghN-x5XU8/view?usp=sharing",
+            "code": "https://github.com/MrAnmolGupta/Electronic-Devices-Bills-Generator"
         }
     }
-
-
-
-
-
-
-
-
 ]

@@ -22,7 +22,7 @@
     
     {
         "name": "GA Pilot App",
-        "desc": "Drone pilots focused on agricultural tasks like pesticide spraying. With features that simplify boundary marking, path planning, and real-time monitoring, this app equips pilots with essential tools for precision and efficiency.",
+        "desc": "pilots focused on agricultural tasks like pesticide spraying. With features that simplify boundary marking, path planning, and real-time monitoring."
         "image": "Airtel",
         "category": "APP",
         "links": {

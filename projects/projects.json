@@ -1,28 +1,5 @@
 [
      {
-        "name": "Random Chat - Anonymous Chat",
-        "desc": "Chat with strangers anonymously • Random chat • Talk to girls & boys • Free stranger chat app.",
-        "image": "stranger",
-        "category": "APP",
-        "links": {
-            "view": "https://play.google.com/store/apps/details?id=com.stranger.strangergirl&hl=en_IN",
-            "code": "https://play.google.com/store/apps/details?id=com.stranger.strangergirl&hl=en_IN"
-        }
-    },
-    
-    {
-        "name": "Airtel Fiverse App",
-        "desc": "Developed Airtel Fiverse app to digitize fiber planning, replacing paperwork with real-time data capture, GPS tracking, and automation.",
-        "image": "airtel_logo",
-        "category": "APP",
-        "links": {
-            "view": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN",
-            "code": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN"
-        }
-    },
-    
-
-    {
         "name": "GA Pilot App",
         "desc": "pilots focused on agricultural tasks like pesticide spraying. With features that simplify boundary marking, path planning, and real-time monitoring.",
         "image": "ga_pilot",
@@ -52,6 +29,28 @@
         "links": {
             "view": "https://drive.google.com/file/d/1ps-_cDrLEyPLnkGtZkFUx8ZghN-x5XU8/view?usp=sharing",
             "code": "https://github.com/MrAnmolGupta/Electronic-Devices-Bills-Generator"
+        }
+    },
+   
+    {
+        "name": "Airtel Fiverse App",
+        "desc": "Developed Airtel Fiverse app to digitize fiber planning, replacing paperwork with real-time data capture, GPS tracking, and automation.",
+        "image": "airtel",
+        "category": "APP",
+        "links": {
+            "view": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN",
+            "code": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN"
+        }
+    },
+    
+      {
+        "name": "Random Chat - Anonymous Chat",
+        "desc": "Chat with strangers anonymously • Random chat • Talk to girls & boys • Free stranger chat app.",
+        "image": "stranger",
+        "category": "APP",
+        "links": {
+            "view": "https://play.google.com/store/apps/details?id=com.stranger.strangergirl&hl=en_IN",
+            "code": "https://play.google.com/store/apps/details?id=com.stranger.strangergirl&hl=en_IN"
         }
     }
 ]

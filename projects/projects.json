@@ -15,14 +15,14 @@
         "image": "MYn",
         "category": "APP",
         "links": {
-            "view": "",
-            "code": ""
+            "view": "https://nxtgen.com/",
+            "code": "https://nxtgen.com/"
         }
     },
     
     {
         "name": "GA Pilot App",
-        "desc": "GA Pilot 2.0 advanced app designed for drone pilots focused on agricultural tasks like pesticide spraying. With features that simplify boundary marking, path planning, and real-time monitoring, this app equips pilots with essential tools for precision and efficiency.",
+        "desc": "Drone pilots focused on agricultural tasks like pesticide spraying. With features that simplify boundary marking, path planning, and real-time monitoring, this app equips pilots with essential tools for precision and efficiency.",
         "image": "Airtel",
         "category": "APP",
         "links": {

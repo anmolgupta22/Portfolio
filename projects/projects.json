@@ -1,7 +1,7 @@
 [{
         "name": "Airtel Fiverse App",
         "desc": "Developed Airtel Fiverse app to digitize fiber planning, replacing paperwork with real-time data capture, GPS tracking, and automation.",
-        "image": "https://s3-ap-southeast-1.amazonaws.com/bsy/iportal/images/airtel-logo-white-text-vertical.jpg",
+        "image": "airtel_logo",
         "category": "APP",
         "links": {
             "view": "https://play.google.com/store/apps/details?id=com.visionairtel.fiverse&hl=en_IN",
